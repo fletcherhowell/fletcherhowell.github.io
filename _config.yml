@@ -31,7 +31,7 @@ twitter_username: fmookowScience
 github_username:  fletcherhowell
 
 # Build settings
-theme: jekyll-theme-slate
+theme: Slate
 plugins:
   - jekyll-feed
 
