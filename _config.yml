@@ -22,7 +22,7 @@ github_username:  fletcherhowell
 # facebook_username: fmookow
 # flickr_username: 
 instagram_username: fmookow
-linkedin_username: fletcherhowell
+linkedin_username: fletcher-howell
 # xing_username: 
 # pinterest_username: 
 # youtube_username: 
@@ -49,8 +49,11 @@ linkedin_username: fletcherhowell
 about_profile_image: images/Headshot.jpg
 about_content: | # this will include new lines to allow paragraphs
   Student with AProf Rhodri Davies. Commenced February 2021.
+  
   Seismology and Mathematical Geophysics Group
+  
   Research School of Earth Sciences
+  
   The Australian National University 
 
   I am skilled in: <mark>Geodynamics</mark>, <mark>Geophysics</mark>, <mark>Geochemistry</mark>, <mark>python</mark>, and <mark>Physical Chemistry</mark>.
@@ -83,6 +86,7 @@ content:
         sub_title: Bachelor of Science (Advanced)
         description: | # this will include new lines to allow paragraphs
             Major: Chemistry, Earth Science
+            
             Minor: Science Communication
 
 # Footer
