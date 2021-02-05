@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Fletcher Howell
-title: Honours Candidate in Computational Geodynamics             Seismology and Mathematical Geophysics               Research School of Earth Science              The Australian National University
+title: Honours Candidate in Computational Geodynamics
 email: fletcher.howell@anu.edu.au
 website: fletcherhowell.github.io
 
@@ -48,9 +48,12 @@ linkedin_username: fletcherhowell
 # about_title: About Me
 about_profile_image: images/Headshot.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Student with Rhodri Davies. Commenced February 2021. 
+  Student with AProf Rhodri Davies. Commenced February 2021.
+  Seismology and Mathematical Geophysics Group
+  Research School of Earth Sciences
+  The Australian National University 
 
-  I am skilled in: <mark>Geodynamics</mark>, <mark>Geophysics</mark>, <mark>Geochemistry</mark>, <mark>python<\mark>, and <mark>Physical Chemistry</mark>.
+  I am skilled in: <mark>Geodynamics</mark>, <mark>Geophysics</mark>, <mark>Geochemistry</mark>, <mark>python</mark>, and <mark>Physical Chemistry</mark>.
 
 content:
   - title: Publications # Title for the section
@@ -78,10 +81,9 @@ content:
         title: The Australian National University
         caption: 2017-Present
         sub_title: Bachelor of Science (Advanced)
-        quote: >
-          Major: Chemistry, Earth Science. Minor: Science Communication.
         description: | # this will include new lines to allow paragraphs
-            Description from my resume.
+            Major: Chemistry, Earth Science
+            Minor: Science Communication
 
 # Footer
 footer_show_references: false
