@@ -81,7 +81,7 @@ content:
         quote: >
           Major: Chemistry, Earth Science. Minor: Science Communication.
         description: | # this will include new lines to allow paragraphs
-	  Words to some effect.
+	    Words to some effect.
 
 # Footer
 footer_show_references: false
