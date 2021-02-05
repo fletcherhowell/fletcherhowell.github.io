@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Fletcher Howell
-title: Honours Student
+title: Honours Student at ANU
 email: fletcher.howell@anu.edu.au
 website: fletcherhowell.github.io
 
@@ -49,10 +49,15 @@ linkedin_username: fletcher-howell
 about_profile_image: images/Headshot.jpg
 about_content: | # this will include new lines to allow paragraphs
   Student with AProf Rhodri Davies. Commenced February 2021. 
+  
   Seismology and Mathematical Geophysics Group 
+  
   Research School of Earth Sciences
+  
   The Australian National University 
 
+  
+  
   I am skilled in: <mark>Geodynamics</mark>, <mark>Geophysics</mark>, <mark>Geochemistry</mark>, <mark>python</mark>, and <mark>Physical Chemistry</mark>.
 
 content:
