@@ -7,7 +7,15 @@ version: 2
 
 # Personal info
 name: Fletcher Howell
-title: Honours Candidate in Computational Geodynamics
+title:  | # this will include new lines to allow paragraphs
+  Honours Candidate in Computational Geodynamics
+
+  Seismology and Mathematical Geophysics Group
+
+  Research School of Earth Sciences
+
+  The Australian National University 
+
 email: fletcher.howell@anu.edu.au
 website: fletcherhowell.github.io
 
