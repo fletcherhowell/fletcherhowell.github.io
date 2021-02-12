@@ -58,7 +58,7 @@ about_content: | # this will include new lines to allow paragraphs
 
   
   
-  I am skilled in: <mark>Geodynamics</mark>, <mark>Geophysics</mark>, <mark>Geochemistry</mark>, <mark>python</mark>, and <mark>Physical Chemistry</mark>.
+  I am skilled in: <mark>Geodynamics</mark>, <mark>Geophysics</mark>, <mark>Geochemistry</mark>, <mark>python</mark>, <mark> GPlates </mark>, and <mark>Physical Chemistry</mark>.
 
 content:
   - title: Publications # Title for the section
