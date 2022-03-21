@@ -61,7 +61,7 @@ content:
   - title: Publications # Title for the section
     layout: list # Type of content section (list/text)
     content:
-        - layout: left
+      - layout: left
         title: The Monsoon Project
         link: https://www.themonsoonproject.org/fronting-the-waves-japans-post-2011-tohoku-tsunami-challenges/
         # link_text: anu.edu.au
