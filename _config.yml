@@ -15,13 +15,13 @@ website: fletcherhowell.github.io
 darkmode: true
 
 # Social links
-twitter_username: howell_fj
+#twitter_username: howell_fj
 github_username:  fletcherhowell
 # stackoverflow_username: 
 # dribbble_username: 
 # facebook_username: howell_fj
 # flickr_username: 
-instagram_username: howell_fj
+#instagram_username: howell_fj
 linkedin_username: howellfj
 # xing_username: 
 # pinterest_username: 
@@ -46,15 +46,15 @@ linkedin_username: howellfj
 
 # About Section
 # about_title: About Me
-about_profile_image: images/Headshot.jpg
+about_profile_image: images/headshot2.jpg
 about_content: | # this will include new lines to allow paragraphs
   
   PhD Candidate in Injury Prevention (Road Safety)
-  Monash University Accident Research Center
+  Monash University Accident Research Centre
   
   I am skilled in: <mark>Scientific Research</mark>, <mark>Data Science</mark>, <mark>python3</mark>, <mark>Geophysics</mark>, and <mark>Physical Chemistry</mark>.
   
-  First Class Honours Graduate of a Bachelor of Science (Advanced) from the Australian National University. 2016-2021. 
+  University Medallist, First Class Honours Graduate of a Bachelor of Science (Advanced) from the Australian National University. 2016-2021. 
   Certificate III in Information, Digital Media, and Technology (Networking) from TAFE NSW. 2019-2020.
 
 content:
@@ -74,34 +74,23 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
+        title: Monash University
+        caption: 2022-Present
+        sub_title: Doctor of Philosophy
+        description: | # this will include new lines to allow paragraphs
+            Monash Silver Jubilee PhD Scholarship
+            Monash Graduate Excellence Scholarship
+            
+      - layout: left
         title: The Australian National University
-        caption: 2017-Present
+        caption: 2017-2021
         sub_title: Bachelor of Science (Advanced)
         description: | # this will include new lines to allow paragraphs
             First Class Honours in Physics of the Earth
+            University Medallist
             
             Major: Chemistry, Earth Science
-            
             Minor: Science Communication        
-        
-  - title: Experience # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        title: Domestic Student Recuitment, The Australian National University
-        link: anu.edu.au
-        # link_text: anu.edu.au
-        sub_title: Student Recruitment Assistant (Senior Student Ambassador Scheme)
-        caption: March 2019 - December 2020
-        description: | # this will include new lines to allow paragraphs
-        
-      - layout: left
-        title: Research School of Chemistry, The Australian National University
-        link: https://chemistry.anu.edu.au/
-        # link_text: anu.edu.au
-        sub_title: First-Year Lab Demonstrator
-        caption: February 2020 - July 2020
-        description: | # this will include new lines to allow paragraphs
 
 # Footer
 footer_show_references: false
