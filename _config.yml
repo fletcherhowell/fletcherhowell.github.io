@@ -46,7 +46,7 @@ linkedin_username: howellfj
 
 # About Section
 # about_title: About Me
-about_profile_image: images/headshot2.jpg
+about_profile_image: images/headshot2.png
 about_content: | # this will include new lines to allow paragraphs
   
   PhD Candidate in Injury Prevention (Road Safety)
@@ -79,6 +79,7 @@ content:
         sub_title: Doctor of Philosophy
         description: | # this will include new lines to allow paragraphs
             Monash Silver Jubilee PhD Scholarship
+            
             Monash Graduate Excellence Scholarship
             
       - layout: left
@@ -87,9 +88,11 @@ content:
         sub_title: Bachelor of Science (Advanced)
         description: | # this will include new lines to allow paragraphs
             First Class Honours in Physics of the Earth
+            
             University Medallist
             
             Major: Chemistry, Earth Science
+            
             Minor: Science Communication        
 
 # Footer
