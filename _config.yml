@@ -62,7 +62,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Descriptive and conceptual structure of naturalistic driving study research: A computational literature review
+        title: "Descriptive and conceptual structure of naturalistic driving study research: A computational literature review"
         link: https://doi.org/10.1016/j.trip.2024.101205
         # link_text: anu.edu.au
         caption: Published September 2024
