@@ -49,7 +49,7 @@ linkedin_username: howellfj
 about_profile_image: images/headshot2.png
 about_content: | # this will include new lines to allow paragraphs
   
-  PhD Candidate in Injury Prevention (Road Safety)
+  PhD Candidate in Accident Research (Road Safety Data)
   Monash University Accident Research Centre
   
   I am skilled in: <mark>Scientific Research</mark>, <mark>Data Science</mark>, <mark>python3</mark>, <mark>Geophysics</mark>, and <mark>Physical Chemistry</mark>.
@@ -61,6 +61,13 @@ content:
   - title: Publications # Title for the section
     layout: list # Type of content section (list/text)
     content:
+      - layout: left
+        title: "Naturalistic driving study data applied to road infrastructure: A systematic review"
+        link: https://doi.org/10.1016/j.jsr.2024.11.022
+        # link_text: anu.edu.au
+        caption: Published February 2025
+        description: | # this will include new lines to allow paragraphs
+            Introduction: Naturalistic driving studies (NDS) have great potential to characterize the road infrastructure factors influencing everyday driving. A systematic review was undertaken to evaluate the objectives, data processing, and analyses in best-practice applications of NDS data to road infrastructure. Method: Following the Preferred Reporting Items for Systematic Reviews and Meta-Analysis (PRISMA) guidelines, a systematic search of seven databases was conducted on 27 June 2023 (PROSPERO CRD42023434948). Fifty-three English-language, peer-reviewed studies were analyzed on the basis of the primary infrastructure category reflected in the research aims. Results: Studies described curves (14), turns at intersections (8), intersections (6), multi-modal treatments (6), ramps (4), work zones (4), charging (2), and other factors (9). Each study was assessed for the risk of methodological bias using amended National Heart, Lung, and Blood Institute templates for Quality Assurance. 74% of studies were assessed to be of ’Good’ quality, 13% of ‘Fair’ quality, and 13% of ‘Poor’ quality. Road infrastructure was characterized by external video (38%) complemented by non-NDS sources including satellite imagery (21%) and government data (19%). Data preparation was required in 91% of studies to extract meaningful variables (e.g. manual video coding) and/or link multiple datasets. Analysis predominantly determined correlations between aspects of driver behavior (speed, trajectory, etc.) and infrastructure factors (geometry, lane configuration, etc.). Conclusions: The methods employed were broadly applicable, but required considerable subject-specific adaptation for non-NDS datasets and/or time-consuming video coding. The incorporation of road infrastructure factors in NDS research can continue to be improved by reducing the computational cost of sample processing.Practical Applications: Encouraged by the adaptability of the identified methods, NDS research has the potential to benefit from the consideration of road infrastructure factors in a Safe System context. The analytical requirements for all components of the Safe System should be considered when planning future NDS data collections and/or analysis.    
       - layout: left
         title: "Descriptive and conceptual structure of naturalistic driving study research: A computational literature review"
         link: https://doi.org/10.1016/j.trip.2024.101205
