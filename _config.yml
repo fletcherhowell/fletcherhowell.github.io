@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Fletcher Howell
-title: PhD Candidate in Injury Prevention (Road Safety)
+title: PhD Candidate in Accident Research (Road Safety Data)
 email: fletcher.howell@monash.edu
 website: fletcherhowell.github.io
 
@@ -49,8 +49,7 @@ linkedin_username: howellfj
 about_profile_image: images/headshot2.png
 about_content: | # this will include new lines to allow paragraphs
   
-  PhD Candidate in Accident Research (Road Safety Data)
-  Monash University Accident Research Centre
+  PhD Candidate in Accident Research (Road Safety Data) at the Monash University Accident Research Centre
   
   I am skilled in: <mark>Scientific Research</mark>, <mark>Data Science</mark>, <mark>python3</mark>, <mark>Geophysics</mark>, and <mark>Physical Chemistry</mark>.
   
