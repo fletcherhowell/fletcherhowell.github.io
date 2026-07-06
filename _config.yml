@@ -6,9 +6,8 @@ favicon: images/FH_logo_dark.png
 version: 2
 
 # Personal info
-name: Fletcher Howell
-title: PhD Candidate in Safety Science (Road Safety Data)
-email: fletcher.howell@monash.edu
+name: Dr Fletcher Howell
+title: Operations Support Officer at Geoscience Australia
 website: fletcherhowell.github.io
 
 # Dark Mode (true/false/never)
@@ -49,7 +48,7 @@ linkedin_username: howellfj
 about_profile_image: images/headshot2.png
 about_content: | # this will include new lines to allow paragraphs
   
-  PhD Candidate in Safety Science (Road Safety Data) at the Monash University Accident Research Centre
+  PhD Graduate in Public Health - Other (Safety Science, Road Safety Data) from the Monash University Accident Research Centre
   
   I am skilled in: <mark>Scientific Research</mark>, <mark>Data Science</mark>, <mark>python3</mark>, <mark>Geophysics</mark>, and <mark>Physical Chemistry</mark>.
   
@@ -88,7 +87,7 @@ content:
     content:
       - layout: left
         title: Monash University
-        caption: 2022-Present
+        caption: 2022-2026
         sub_title: Doctor of Philosophy
         description: | # this will include new lines to allow paragraphs
             Monash Silver Jubilee PhD Scholarship
