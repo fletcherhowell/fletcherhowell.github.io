@@ -48,9 +48,10 @@ linkedin_username: howellfj
 about_profile_image: images/headshot2.png
 about_content: | # this will include new lines to allow paragraphs
   
-  PhD Graduate in Public Health - Other (Safety Science, Road Safety Data) from the Monash University Accident Research Centre.<br>
+  PhD Graduate in Public Health (Safety Science, Road Safety Data) from the Monash University Accident Research Centre.<br>
   I am skilled in: <mark>Scientific Research</mark>, <mark>Data Science</mark>, <mark>python3</mark>, <mark>Geophysics</mark>, and <mark>Physical Chemistry</mark>.<br>
-  University Medallist, First Class Honours (Physics of the Earth) Graduate of a Bachelor of Science (Advanced) from the Australian National University.<br>
+  University Medallist, First Class Honours (Physics of the Earth)<br>
+  Graduate of a Bachelor of Science (Advanced) from the Australian National University.<br>
   Certificate III in Information, Digital Media, and Technology (Networking) from TAFE NSW.
 
 content:
@@ -74,7 +75,7 @@ content:
       - layout: left
         title: The Monsoon Project
         link: https://web.archive.org/web/20201128080629/https://www.themonsoonproject.org/fronting-the-waves-japans-post-2011-tohoku-tsunami-challenges/
-        # link_text: anu.edu.au
+        link_text: https://doi.org/10.1016/mp.2020.071401
         sub_title: Fronting the waves, Japans post-2011 Tohoku Tsunami Challenges
         caption: Published July 2020
         description: | # this will include new lines to allow paragraphs
