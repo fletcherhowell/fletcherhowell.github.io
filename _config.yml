@@ -48,12 +48,9 @@ linkedin_username: howellfj
 about_profile_image: images/headshot2.png
 about_content: | # this will include new lines to allow paragraphs
   
-  PhD Graduate in Public Health - Other (Safety Science, Road Safety Data) from the Monash University Accident Research Centre
-  \n
-  I am skilled in: <mark>Scientific Research</mark>, <mark>Data Science</mark>, <mark>python3</mark>, <mark>Geophysics</mark>, and <mark>Physical Chemistry</mark>.
-  \n
-  University Medallist, First Class Honours (Physics of the Earth) Graduate of a Bachelor of Science (Advanced) from the Australian National University.
-  \n
+  PhD Graduate in Public Health - Other (Safety Science, Road Safety Data) from the Monash University Accident Research Centre.<br>
+  I am skilled in: <mark>Scientific Research</mark>, <mark>Data Science</mark>, <mark>python3</mark>, <mark>Geophysics</mark>, and <mark>Physical Chemistry</mark>.<br>
+  University Medallist, First Class Honours (Physics of the Earth) Graduate of a Bachelor of Science (Advanced) from the Australian National University.<br>
   Certificate III in Information, Digital Media, and Technology (Networking) from TAFE NSW.
 
 content:
@@ -91,8 +88,7 @@ content:
         caption: 2022-2026
         sub_title: Doctor of Philosophy
         description: | # this will include new lines to allow paragraphs
-            Monash Silver Jubilee PhD Scholarship
-            \n
+            Monash Silver Jubilee PhD Scholarship<br>
             Monash Graduate Excellence Scholarship
             
       - layout: left
@@ -100,12 +96,9 @@ content:
         caption: 2017-2021
         sub_title: Bachelor of Science (Advanced)
         description: | # this will include new lines to allow paragraphs
-            First Class Honours in Physics of the Earth
-            \n
-            University Medallist
-            \n
-            Major: Chemistry, Earth Science
-            \n
+            First Class Honours in Physics of the Earth<br>
+            University Medallist<br>
+            Major: Chemistry, Earth Science<br>
             Minor: Science Communication        
 
 # Footer
