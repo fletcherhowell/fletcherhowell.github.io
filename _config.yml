@@ -64,7 +64,7 @@ content:
         # link_text: anu.edu.au
         caption: Published December 2026
         description: | # this will include new lines to allow paragraphs
-            The vehicle data of seven newly provisionally licensed drivers collected as part of the Young Australian Naturalistic Driving Study (YANDS) was combined with secondary road infrastructure data. The exploratory findings (N = 7) suggest that roads with lower posted speed limits were correlated with higher relative approach speeds, a greater likelihood of speeding, longer following distances, and a lower likelihood of tailgating. Driving on unfamiliar roads and afternoon peak traffic were significantly correlated with an increased likelihood of speeding. Wide lanes (>3.5 m) were significantly correlated with increased mean approach speed.
+            The vehicle data of seven newly provisionally licensed drivers collected as part of the Young Australian Naturalistic Driving Study (YANDS) was combined with secondary road infrastructure data. The exploratory findings (N=7) suggest that roads with lower posted speed limits were correlated with higher relative approach speeds, a greater likelihood of speeding, longer following distances, and a lower likelihood of tailgating. Driving on unfamiliar roads and afternoon peak traffic were significantly correlated with an increased likelihood of speeding. Wide lanes (>3.5 m) were significantly correlated with increased mean approach speed.
       - layout: left
         title: "Naturalistic driving study data applied to road infrastructure: A systematic review"
         link: https://doi.org/10.1016/j.jsr.2024.11.022
