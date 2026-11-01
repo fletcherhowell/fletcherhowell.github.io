@@ -58,7 +58,7 @@ content:
   - title: Publications # Title for the section
     layout: list # Type of content section (list/text)
     content:
-    - layout: left
+      - layout: left
         title: "Young novice driver speed and headway at signalised intersections: Exploratory insights from a naturalistic driving study in New South Wales, Australia"
         link: https://doi.org/10.1016/j.iatssr.2026.09.002
         # link_text: anu.edu.au
